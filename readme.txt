@@ -1,4 +1,5 @@
-Git is a version control system.
-Git is free software.
-sssssssss
-ss
+这里学习了git ,
+git 是非常好用的代码管理工具。
+
+
+star 是一个使用angular写的打分小指令，类似于腾讯的打分系统，满分5分。
